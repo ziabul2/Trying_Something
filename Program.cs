@@ -83,6 +83,7 @@ namespace C_
             int seconNum = 3;
 
             Console.WriteLine("Remainder is : " + (firstNum % seconNum));
+            Console.ReadLine();
 
 
 
