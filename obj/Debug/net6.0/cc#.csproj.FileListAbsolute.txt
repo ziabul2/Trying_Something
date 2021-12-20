@@ -28,3 +28,18 @@ C:\Users\User\Desktop\New folder\Trying_Something\obj\Debug\net6.0\cc#.dll
 C:\Users\User\Desktop\New folder\Trying_Something\obj\Debug\net6.0\ref\cc#.dll
 C:\Users\User\Desktop\New folder\Trying_Something\obj\Debug\net6.0\cc#.pdb
 C:\Users\User\Desktop\New folder\Trying_Something\obj\Debug\net6.0\cc#.genruntimeconfig.cache
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\bin\Debug\net6.0\cc#.exe
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\bin\Debug\net6.0\cc#.deps.json
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\bin\Debug\net6.0\cc#.runtimeconfig.json
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\bin\Debug\net6.0\cc#.dll
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\bin\Debug\net6.0\ref\cc#.dll
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\bin\Debug\net6.0\cc#.pdb
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\obj\Debug\net6.0\cc#.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\obj\Debug\net6.0\cc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\obj\Debug\net6.0\cc#.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\obj\Debug\net6.0\cc#.AssemblyInfo.cs
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\obj\Debug\net6.0\cc#.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\obj\Debug\net6.0\cc#.dll
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\obj\Debug\net6.0\ref\cc#.dll
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\obj\Debug\net6.0\cc#.pdb
+C:\Users\User\Desktop\Trying_something git project\Trying_Something\obj\Debug\net6.0\cc#.genruntimeconfig.cache
