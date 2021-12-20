@@ -1,2 +1,3 @@
 I am jim...
-this is my simple code
+this is my simple code.
+it"s version is 0.2
